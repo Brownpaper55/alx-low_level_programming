@@ -1,4 +1,4 @@
-int _isupper(int c)i;
+int _isupper(int c);
 
 int _isdigit(int c);
 
